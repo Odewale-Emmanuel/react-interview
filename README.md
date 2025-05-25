@@ -1,3 +1,29 @@
+# Tech Interview Sample - Todo App with Context API
+
+This is a sample React Todo app for a junior developer interview. The candidate is expected to complete the following tasks within 30 minutes using the React Context API and reducer.
+
+## Tasks
+
+### Task 1: Set Up Context and Reducer
+- **Description**: Implement add functionality and fix any bug
+
+### Task 2: Implement Add and Remove Functionality
+- **Description**: Complete the remove functionality
+
+### Task 3: Implement Toggle Complete Functionality
+- **Description**: implement toggling the completion status of todo items and mark item state to complete.
+
+## Getting Started
+
+1. Clone the repository.
+2. Run `npm install` to install dependencies.
+3. Run `npm start` to start the development server.
+
+## Submission
+
+- Please commit your changes and push them to a new branch.
+- Provide a link to the branch with your solutions.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -31,13 +57,13 @@ See the section about [deployment](https://facebook.github.io/create-react-app/d
 
 ### `npm run eject`
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+**Note: this is a one-way operation. Once you `eject`, you can't go back!**
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
 
 ## Learn More
 
